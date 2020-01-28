@@ -40,3 +40,7 @@ docker-compose up -d
 ```
 
 > 后端代码努力重构中...
+
+## 鼓励
+
+<img src="https://raw.githubusercontent.com/52admln/static-images/master/img/donate.png" width="60%" />
